@@ -9,7 +9,7 @@ public class inheritance {
     }
 }
 class inheritance1 extends inheritance {
-    int age = 22;
+    int mage = 22;
     public static void main(String[] args) {
         inheritance1 p = new inheritance1();
         System.out.println(p.age);
